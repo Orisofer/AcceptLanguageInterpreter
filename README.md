@@ -27,11 +27,17 @@ accept
 ## 🧠 Literals and Keywords
 
 say → prints something to the console
+
 mish → variable declaration keyword
+
 im → start of an if block
+
 o: → start of an else block
+
 accept → end of program
+
 % → end of line token
+
 
 ## 📚 Language Grammar (BNF Style)
 
