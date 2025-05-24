@@ -1,0 +1,14 @@
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/bin/Debug/net9.0/AcceptLangParser
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/bin/Debug/net9.0/AcceptLangParser.deps.json
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/bin/Debug/net9.0/AcceptLangParser.runtimeconfig.json
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/bin/Debug/net9.0/AcceptLangParser.dll
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/bin/Debug/net9.0/AcceptLangParser.pdb
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/AcceptLangParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/AcceptLangParser.AssemblyInfoInputs.cache
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/AcceptLangParser.AssemblyInfo.cs
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/AcceptLangParser.csproj.CoreCompileInputs.cache
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/AcceptLangParser.dll
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/refint/AcceptLangParser.dll
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/AcceptLangParser.pdb
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/AcceptLangParser.genruntimeconfig.cache
+/Users/orisofer/Desktop/OriSofer/Rider/AcceptParser/Solution/AcceptLangParser/AcceptLangParser/obj/Debug/net9.0/ref/AcceptLangParser.dll
