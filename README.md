@@ -11,7 +11,7 @@ In this project, I've built:
 
 ---
 
-## 🔤 Source Code Example
+# 🔤 Source Code Example
 
 ```accept
 say _Hello_Im_Accept_Lang%
@@ -22,24 +22,19 @@ o:
 say _Shitty_Number%
 say _the_program_is_working%
 accept
+```
 
-🧠 Literals and Keywords
+# 🧠 Literals and Keywords
+
 say → prints something to the console
-
 mish → variable declaration keyword
-
 im → start of an if block
-
 o: → start of an else block
-
 accept → end of program
-
 % → end of line token
 
-📚 Language Grammar (BNF Style)
-bnf
-Copy
-Edit
+# 📚 Language Grammar (BNF Style)
+
 <Program> ::= <Statement>* 'accept'
 <Statement> ::= <SayStatement> | <VarDeclaration> | <IfElse>
 <SayStatement> ::= 'say' '_' <String> '%'
