@@ -36,13 +36,14 @@ accept → end of program
 ## 📚 Language Grammar (BNF Style)
 
 ```
-<Program> ::= <Statement>* 'accept'
+<Program> ::= <Statement>* "accept"
 <Statement> ::= <SayStatement> | <VarDeclaration> | <IfElse>
-<SayStatement> ::= 'say' '_' <String> '%'
-<VarDeclaration> ::= 'mish' <Identifier> '=>' <Number> '%'
-<IfElse> ::= 'im' <Identifier> <Comparison> <Number> ':' <Statement>* <Dedent> 'o:' <Statement>*
-<Identifier> ::= <Character>*
-<Character> ::= [a-z]* | [a-z]* <Number>
-<Number> ::= <Digit>*
-<Digit> ::= [0-9]
+<SayStatement> ::= "say" "_" <String> "%"
+<VarDeclaration> ::= "mish" <Identifier> "=>" <Number> "%"
+<IfElse> ::= "im" <Identifier> <Comparison> <Number> ":" <Statement>* "o:" <Statement>*
+<Identifier> ::= <Character>+
+<Character> ::= "a" | "b" | "c" | ... | "z"
+<Number> ::= <Digit>+
+<Digit> ::= "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9"
+
 ```
