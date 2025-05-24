@@ -1,4 +1,4 @@
-# Accept Lang
+## Accept Lang
 
 This is a small project I've made to learn how to build a programming language.
 
@@ -11,7 +11,7 @@ In this project, I've built:
 
 ---
 
-# 🔤 Source Code Example
+## 🔤 Source Code Example
 
 ```accept
 say _Hello_Im_Accept_Lang%
@@ -24,7 +24,7 @@ say _the_program_is_working%
 accept
 ```
 
-# 🧠 Literals and Keywords
+## 🧠 Literals and Keywords
 
 say → prints something to the console
 mish → variable declaration keyword
@@ -33,8 +33,9 @@ o: → start of an else block
 accept → end of program
 % → end of line token
 
-# 📚 Language Grammar (BNF Style)
+## 📚 Language Grammar (BNF Style)
 
+```
 <Program> ::= <Statement>* 'accept'
 <Statement> ::= <SayStatement> | <VarDeclaration> | <IfElse>
 <SayStatement> ::= 'say' '_' <String> '%'
@@ -44,3 +45,4 @@ accept → end of program
 <Character> ::= [a-z]* | [a-z]* <Number>
 <Number> ::= <Digit>*
 <Digit> ::= [0-9]
+```
