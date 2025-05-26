@@ -9,7 +9,10 @@ public class AcceptRunner
     public AcceptRunner(string codePath)
     {
         m_CodePath = codePath;
+    }
 
+    public void RunProgram()
+    {
         string[] lines = OpenSourceFile(m_CodePath);
 
         AcceptTokenizer tokenizer = new AcceptTokenizer(lines);
