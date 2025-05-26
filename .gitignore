@@ -1,3 +1,6 @@
 .idea
 AcceptLangParser.sln
 AcceptLangParser.sln.DotSettings.user
+
+AcceptLangInterpreter/bin
+AcceptLangInterpreter/obj
